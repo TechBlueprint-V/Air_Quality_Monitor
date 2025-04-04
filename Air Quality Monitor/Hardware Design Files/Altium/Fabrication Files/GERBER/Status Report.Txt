@@ -1,0 +1,39 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Air Quality Monitor.PrjPcb]
+   Generated File[PCB.GTO]
+   Generated File[PCB.GTP]
+   Generated File[PCB.GTS]
+   Generated File[PCB.GTL]
+   Generated File[PCB.G1]
+   Generated File[PCB.G2]
+   Generated File[PCB.GBL]
+   Generated File[PCB.GBS]
+   Generated File[PCB.GBP]
+   Generated File[PCB.GBO]
+   Generated File[PCB.GM1]
+   Generated File[PCB.GM2]
+   Generated File[PCB.GM4]
+   Generated File[PCB.GM5]
+   Generated File[PCB.GM8]
+   Generated File[PCB.GM10]
+   Generated File[PCB.GM12]
+   Generated File[PCB.GM13]
+   Generated File[PCB.GM15]
+   Generated File[PCB.GM16]
+   Generated File[PCB.GM21]
+   Generated File[PCB.GM23]
+   Generated File[PCB.GKO]
+   Generated File[PCB.GPT]
+   Generated File[PCB.GPB]
+   Generated File[PCB.GD1]
+   Generated File[PCB.GG1]
+   Generated File[PCB.GM]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 30
+Documents Printed : 0
+
+Finished Output Generation At 4:02:30 PM On 4/4/2025
