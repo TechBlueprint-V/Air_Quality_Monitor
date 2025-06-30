@@ -147,6 +147,14 @@ This is an open-source, modular air quality monitoring system designed for both 
 - **Additional Sensors**: Expand sensor support for detecting carbon monoxide (CO), lead (Pb), or other industrial pollutants.
 - **LoRaWAN Gateway Support**: Enable compatibility with public or private LoRaWAN gateways to support broader communication networks.
 
+## Contributors
+
+- **Nihad Sarkarov** – Hardware architecture, PCB design, component selection -   [LinkedIn](https://www.linkedin.com/in/nihad-sarkarov-35b959232/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- **Farid Murshudlu** – Firmware development, application UI design -  [LinkedIn](https://www.linkedin.com/in/farid-murshudlu/)
+ 
+- **Ali Askerov** – Mechanical design, enclosure design -  [LinkedIn](https://www.linkedin.com/in/ali-askarov-596a0b258/)
+  
 ## References
 
 1. Plantower PMS5003 Datasheet – [https://files.particle.io](https://www.aqmd.gov/docs/default-source/aq-spec/resources-page/plantower-pms5003-manual_v2-3.pdf)
