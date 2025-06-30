@@ -6,6 +6,13 @@ This is an open-source, modular air quality monitoring system designed for both 
 
 ![Block Diagram](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/Block%20Diagram.png)
 
+
+## Real View
+
+![Real View](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/Air%20Quality%20Monitoring%20Device.jpg)
+
+*Note: The device shown above is an early prototype and not the final version. Development is still ongoing, and once the fully assembled version is complete, updated images and design details will be added here.* 
+
 # Contents
 - [Used Tools](#Used-Tools)
 - [Features and Specifications](#Features-and-Specifications)
