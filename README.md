@@ -106,12 +106,16 @@ This is an open-source, modular air quality monitoring system designed for both 
 
 **3D-Top**
 
-![3D Top](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/3D%20Top.jpeg)
+![3D Bottom](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/3d%20view%20front.png?raw=true)
 
 
 **3D-Bottom**
 
-![3D Bottom](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/3D%20Bottom.jpeg)
+![3D Bottom](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/3d%20view%20back.png)
+
+**3D-Profile**
+
+![3D Profile](https://github.com/TechBlueprint-V/Air_Quality_Monitor/blob/main/Air%20Quality%20Monitor/Images/3d%20view%20profile.png)
 
 ## Enclosure
 
